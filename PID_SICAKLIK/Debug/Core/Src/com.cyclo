@@ -1,0 +1,8 @@
+../Core/Src/com.c:16:6:comInit	2
+../Core/Src/com.c:33:6:comGetData	5
+../Core/Src/com.c:47:6:sendData	2
+../Core/Src/com.c:59:9:comIsRxBufferReady	1
+../Core/Src/com.c:61:6:comRxBufferProcessed	1
+../Core/Src/com.c:68:9:comGetTxBufferIndex	1
+../Core/Src/com.c:72:6:comSetTxBufferIndex	1
+../Core/Src/com.c:76:6:comRxBufferReset	2
